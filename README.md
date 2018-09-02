@@ -1,3 +1,5 @@
+- TODO: parametrick?
+
 - TODO: set dimension
 - TODO: choose from template or "custom"
 - TODO: set key points
